@@ -1,3 +1,8 @@
+# To deploy the site in production:
+# - build the site locally (using only the )
+# bundle exec jekyll serve --config _config.yml -d ./docs
+
+
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
 #      _____ _ __          _____      __  __  _
@@ -78,6 +83,7 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
+    - docs
 
 
 # We do not use the localization mecanism provided by default in feeling responsive.
@@ -116,11 +122,11 @@ compress_html:
 defaults:
   -
     scope:
-      path: '' 				# an empty string here means all files in the project
+      path: ''        # an empty string here means all files in the project
       type: 'pages'
     values:
-      show_meta: false 	# Hide metadata for all pages
-      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      show_meta: false  # Hide metadata for all pages
+      # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: phlow     # Default author for pages
   -
