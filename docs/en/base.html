@@ -1,0 +1,21 @@
+<!-- 
+This base.html page is used to reidrect the visitor to the localized version of the website
+(based on the visitor's browser configuration)
+See https://www.klaasnotfound.com/2017/02/16/proper-multilingual-site-with-github-pages-and-jekyll/
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Amazing Example Website</title>
+</head>
+<body>
+<script>
+    var lang = navigator.language || navigator.userLanguage;
+    if (lang.indexOf('fr') == 0)
+        window.location = '/fr/';
+    else
+        window.location = '/en/';
+</script>
+</body>
+</html>
