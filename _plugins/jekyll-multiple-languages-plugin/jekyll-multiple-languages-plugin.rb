@@ -28,7 +28,9 @@ module Jekyll
     exclude_paths = site.config["exclude_from_localizations"]
 
     if (default_lang == current_lang)
-      files = Dir.glob(File.join("_site/" + current_lang + "/", "*"))
+
+      dest_folder_end = site.dest.split("/")[-2..-1].join("/")
+      files = Dir.glob(File.join(dest_folder_end + "/", "*"))
       files.each do |file_path|
         parts = file_path.split('/')
         f_path = parts[2..-1].join('/')
@@ -134,8 +136,7 @@ module Jekyll
 
       # Site building only variables
       languages                   = self.config['languages'] # List of languages set on _config.yml
-      puts "Language list: \"#{self.config['languages']}\"; #{languages}"
-
+      
       # Site wide plugin configurations
       self.config['default_lang'] = languages.first          # Default language (first language of array set on _config.yml)
       self.config[        'lang'] = languages.first          # Current language being processed
