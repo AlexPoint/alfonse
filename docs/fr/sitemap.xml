@@ -5,24 +5,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/alfonse/fr/404/</loc>
+	<loc>http://localhost:4000/fr/404/</loc>
 	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/alfonse/fr/404.html</loc>
-	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -35,9 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/alfonse/fr/blog/archive/</loc>
+	<loc>http://localhost:4000/fr/404.html</loc>
 	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -49,12 +34,10 @@
 	
 
 	
-
-	
 	<url>
-	<loc>http://localhost:4000/alfonse/fr/atom.xml</loc>
+	<loc>http://localhost:4000/fr/blog/archive/</loc>
 	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,9 +52,26 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/alfonse/fr/changelog/</loc>
+	<loc>http://localhost:4000/fr/atom.xml</loc>
 	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fr/changelog/</loc>
+	
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -84,24 +84,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/alfonse/fr/contact/</loc>
+	<loc>http://localhost:4000/fr/contact/</loc>
 	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/alfonse/fr/design/</loc>
-	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -114,24 +99,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/alfonse/fr/documentation/</loc>
+	<loc>http://localhost:4000/fr/design/</loc>
 	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/alfonse/fr/feed.xml</loc>
-	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -144,24 +114,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/alfonse/fr/getting-started/</loc>
+	<loc>http://localhost:4000/fr/documentation/</loc>
 	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/alfonse/fr/headers/</loc>
-	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -174,24 +129,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/alfonse/fr/humans.txt</loc>
+	<loc>http://localhost:4000/fr/feed.xml</loc>
 	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/alfonse/fr/</loc>
-	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -204,24 +144,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/alfonse/fr/blog/</loc>
+	<loc>http://localhost:4000/fr/getting-started/</loc>
 	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/alfonse/fr/</loc>
-	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -234,24 +159,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/alfonse/fr/info/</loc>
+	<loc>http://localhost:4000/fr/headers/</loc>
 	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/alfonse/fr/redirect-page/</loc>
-	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -264,43 +174,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/alfonse/fr/roadmap/</loc>
+	<loc>http://localhost:4000/fr/humans.txt</loc>
 	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/alfonse/fr/robots.txt</loc>
-	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/alfonse/fr/search/</loc>
-	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -313,9 +189,133 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/alfonse/fr/sitemap.xml</loc>
+	<loc>http://localhost:4000/fr/</loc>
 	
-		<lastmod>2019-01-06T15:00:05+01:00</lastmod>
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fr/blog/</loc>
+	
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fr/</loc>
+	
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fr/info/</loc>
+	
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fr/redirect-page/</loc>
+	
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fr/roadmap/</loc>
+	
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fr/robots.txt</loc>
+	
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fr/search/</loc>
+	
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fr/sitemap.xml</loc>
+	
+		<lastmod>2019-01-06T21:28:43+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
