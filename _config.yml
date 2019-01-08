@@ -1,6 +1,7 @@
 # To deploy the site in production:
-# - build the site locally (using only the )
-# bundle exec jekyll serve --config _config.yml -d ./docs
+# - build the site locally using the command: bundle exec jekyll serve -d ./docs
+# - push the files to the master branch on the remote repo
+# - you're done!
 
 
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
@@ -30,8 +31,8 @@ author: phlow
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://alexpoint.github.io'
-baseurl: '/alfonse'
+url: 'https://www.alfonse.eu'
+baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -43,7 +44,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://alexpoint.github.io/alfonse/images/'
+urlimg: 'https://www.alfonse.eu/images/'
 
 
 # Logo size is 600x80 pixels
