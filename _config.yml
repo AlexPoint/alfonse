@@ -210,8 +210,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: phlow
-    facebook: phlow.media
+    # twitter: phlow
+    # facebook: phlow.media
 
 
 #        ____  _
