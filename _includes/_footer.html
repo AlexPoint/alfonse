@@ -9,10 +9,10 @@
       <div id="footer">
         <div class="row">
           <div class="medium-6 large-5 columns">
-            <h5 class="shadow-black">{{ site.data.language.info_website }}</h5>
+            <h5 class="shadow-black">{% t footer.about.title %}</h5>
 
             <p class="shadow-black">
-              {{ site.description }}
+              {% t footer.about.description %}
               <a href="{{ site.url }}{{ site.baseurl }}/info/">{{ site.data.language.more }}</a>
             </p>
           </div><!-- /.large-6.columns -->
@@ -60,7 +60,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            {{ site.credits }}
+            <p>alfonse © {{ site.time | date: '%Y' }}</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">

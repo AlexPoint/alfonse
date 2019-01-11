@@ -8,10 +8,10 @@ permalink: /atom.xml
 <?xml-stylesheet type="text/css" href="{{ site.baseurl }}/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>{{ site.url }}{{ site.baseurl }}/</id>
-	<title>{{ site.title | xml_escape }}</title>
+	<title>{% global.title %}</title>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 
-	<subtitle>{{ site.description | xml_escape }}</subtitle>
+	<subtitle>{% t global.description %}</subtitle>
 
 	{% if site.author %}
 		{% assign author = site.data.authors[site.author] %}

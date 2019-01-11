@@ -1,7 +1,16 @@
-site:
-  name: Meine Beispiel-Webseite
-  tagline: Mit gutem Beispiel voran!
-  description: Diese Beispiel-Webseite wird Sie begeistern!
+footer:
+  about:
+    title: A propos de ce site
+    description: Alfonse est votre compagnon d'expatriation. Nous sommes là pour vous accompagner dans votre nouvelle vie à l'étranger.
+  services:
+    title: Services
+    contact: Contact
+    sitemap: sitemap.xml
+
+global:
+  title: Alfonse
+  tagline: Votre compagnon d'expatriation !
+  description: Alfonse vous aide dans votre expatriation en vous fournissant tous les conseils et astuces qui vont rendre votre vie plus facile... et vous permettre de profiter pleinement de cette expérience exceptionnelle.
   keywords: Beispiel, Webseite, toll
 
 main:

@@ -8,23 +8,25 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="{{ site.url }}{{ site.baseurl }}" class="icon-tree"> {{ site.title }}</a></h1>
+      <h1 class="show-for-small-only"><a href="{{ site.url }}{{ site.baseurl }}" class="icon-tree"> {% t global.title %}</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
     </ul>
     <section class="top-bar-section">
-{% comment %}
-
-    ____  _       __    __     _   __            _             __  _
-   / __ \(_)___ _/ /_  / /_   / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
-  / /_/ / / __ `/ __ \/ __/  /  |/ / __ `/ | / / / __ `/ __ `/ __/ / __ \/ __ \
- / _, _/ / /_/ / / / / /_   / /|  / /_/ /| |/ / / /_/ / /_/ / /_/ / /_/ / / / /
-/_/ |_/_/\__, /_/ /_/\__/  /_/ |_/\__,_/ |___/_/\__, /\__,_/\__/_/\____/_/ /_/
-        /____/                                 /____/
-
-{% endcomment %}
+      <!-- navigation to align right -->
       <ul class="right">
+
+        <!-- Without dropdown -->
+        <li class="divider"></li>
+        {% assign link_url = "/search/" %}
+
+        <li{% if link_url == page.url %} class="active"{% elsif page.homepage == true and link_url == '/' %} class="active"{% endif %}>
+          <!-- <p>
+        {{ page.url }}</p> -->
+          <a href="{{ domain }}{{ site.baseurl | append: '/search/' }}">Test</a>
+        </li>
+
         {% for link in site.data.navigation %}
 
               {% if link.url contains 'http' %}

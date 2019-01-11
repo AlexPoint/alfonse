@@ -1,7 +1,16 @@
-site:
-  name: My Example Website
-  tagline: Setting a good example!
-  description: This example website will amaze you!
+footer:
+  about:
+    title: About this site
+    description: Alfonse is your expat companion, helping you when you go live in new places.
+  services:
+    title: Services
+    contact: Contact
+    sitemap: sitemap.xml
+
+global:
+  title: Alfonse
+  tagline: Your expat companion!
+  description: Alfonse is helping you in your expatriation by providing all the tips and tricks that will make your life much easier... and will allow you to enjoy this unique experience.
   keywords: example, website, amazing
 
 main:
