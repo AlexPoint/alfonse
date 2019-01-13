@@ -13,8 +13,7 @@ global:
   description: Alfonse is helping you in your expatriation by providing all the tips and tricks that will make your life much easier... and will allow you to enjoy this unique experience.
   keywords: example, website, amazing
 
-main:
-  welcomeSection:
-    anchor: welcome
-    heading: Welcome to this marvelous website.
-    p1: Hundreds of thousands of people are amazed by this site. Are you?
+navigation:
+  blog: Blog
+  expatguide: Expat guide
+  services: Services

@@ -13,8 +13,7 @@ global:
   description: Alfonse vous aide dans votre expatriation en vous fournissant tous les conseils et astuces qui vont rendre votre vie plus facile... et vous permettre de profiter pleinement de cette expérience exceptionnelle.
   keywords: Beispiel, Webseite, toll
 
-main:
-  welcomeSection:
-    anchor: willkommen
-    heading: Willkommen auf dieser tollen Webseite!
-    p1: Hunderttausende Menschen sind von dieser Seite begeistert. Sie auch?
+navigation:
+  blog: Blog
+  expatguide: Guide d'expat
+  services: Services
