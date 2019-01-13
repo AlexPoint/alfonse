@@ -13,22 +13,11 @@ permalink: /atom.xml
 
 	<subtitle>{% t global.description %}</subtitle>
 
-	{% if site.author %}
-		{% assign author = site.data.authors[site.author] %}
-		<author>
-			{% if author.name %}
-				<name>{{ author.name | xml_escape }}</name>
-			{% else %}
-				<name>{{ site.author | xml_escape }}</name>
-			{% endif %}
-			{% if author.email %}
-				<email>{{ author.email | xml_escape }}</email>
-			{% endif %}
-			{% if author.uri %}
-				<uri>{{ author.uri | xml_escape }}</uri>
-			{% endif %}
-		</author>
-	{% endif %}
+	<author>
+		<name>Alex</name>
+		<email>alex@alfonse.eu</email>
+		<!-- <uri></uri> -->
+	</author>
 
 	<link href="{{ site.url }}{{ site.baseurl }}{{page.url }}" rel="self" type="application/rss+xml" />
 	<link href="{{ site.url }}{{ site.baseurl }}/" rel="alternate" type="text/html" />
@@ -42,22 +31,15 @@ permalink: /atom.xml
 			<link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
 
-			{% if post.author %}
-				{% assign author = site.data.authors[post.author] %}
-				<author>
-					{% if author.name %}
-						<name>{{ author.name | xml_escape }}</name>
-					{% else %}
-						<name>{{ post.author | xml_escape }}</name>
-					{% endif %}
-					{% if author.email %}
-						<email>{{ author.email | xml_escape }}</email>
-					{% endif %}
-					{% if author.uri %}
-						<uri>{{ author.uri | xml_escape }}</uri>
-					{% endif %}
-				</author>
-			{% endif %}
+			<!-- 
+				Technically the post author could differ from the website author. 
+				That won't be the case in the short/medium term so I just encode my info here.
+			-->
+			<author>
+				<name>Alex</name>
+				<email>alex@alfonse.eu</email>
+				<!-- <uri></uri> -->
+			</author>
 			<summary>{{ post.teaser | xml_escape }}</summary>
 			<content type="html" xml:base="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.content | xml_escape }}</content>
 
