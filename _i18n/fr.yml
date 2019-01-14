@@ -11,6 +11,27 @@ global:
   title: Alfonse
   tagline: Votre compagnon d'expatriation !
   description: Alfonse vous aide dans votre expatriation en vous fournissant tous les conseils et astuces qui vont rendre votre vie plus facile... et vous permettre de profiter pleinement de cette expérience exceptionnelle.
+  archive: Archives
+  blog_archive: Archives du blog
+  comments_headline: Dialogue &amp; Discussion
+  more: Plus ›
+  more_articles: Plus d'articles
+  new_blog_entries: Nouveaux articles de blog
+  next: Suivant
+  next_posts: Posts suivants
+  previous: Précédents
+  previous_posts: Posts précédents
+  read: Lire
+  read_more: En savoir plus&nbsp;›
+  if_you_are_not_redirected_automatically: Si vous n'êtes pas redirigé automatiquement,
+  click_here: cliquez ici
+  next_post_in: Post suivant dans la catégorie
+  previous_post_in: Post précédent dans la catégorie
+  breadcrumb_start: Commencer
+  edit: Modifier
+  this_content_is_open_source: Ce contenu est open source.
+  help_improve_it: Aidez-nous à l'améliorer
+  enter_search_term: Entrez votre recherche et appuyez sur entrée
 
 navigation:
   blog: Blog

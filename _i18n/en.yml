@@ -11,6 +11,27 @@ global:
   title: Alfonse
   tagline: Your expat companion!
   description: Alfonse is helping you in your expatriation by providing all the tips and tricks that will make your life much easier... and will allow you to enjoy this unique experience.
+  archive: Archive
+  blog_archive: Blog Archive
+  comments_headline: Dialogue &amp; Discussion
+  more: More&nbsp;›
+  more_articles: More articles
+  new_blog_entries: New blog articles
+  next: Next
+  next_posts: Next Posts
+  previous: Previous
+  previous_posts: Previous Posts
+  read: Read
+  read_more: Read More&nbsp;›
+  if_you_are_not_redirected_automatically: If you are not redirected automatically,
+  click_here: click here
+  next_post_in: Next Post in
+  previous_post_in: Previous Post in
+  breadcrumb_start: Start
+  edit: Edit
+  this_content_is_open_source: This content is open source.
+  help_improve_it: Help improve it
+  enter_search_term: Enter search term and hit enter
 
 navigation:
   blog: Blog
