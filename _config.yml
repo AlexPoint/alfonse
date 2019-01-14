@@ -134,7 +134,7 @@ defaults:
 
 google_author:             'https://plus.google.com/u/0/+AlexandrePoint'
 google_site_verification:  'MpPVvei2dWLEsLJKRx4kgRya_CN0gb_flPKgVH2BF88'
-bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
+# bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
 
@@ -195,7 +195,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+disqus_shortname: alfonse
 
 
 #      _____
