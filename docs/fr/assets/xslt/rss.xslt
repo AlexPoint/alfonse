@@ -33,7 +33,7 @@
 	<!-- Search Engine Optimization -->
 	<meta name="description" content="">
 	<meta name="google-site-verification" content="MpPVvei2dWLEsLJKRx4kgRya_CN0gb_flPKgVH2BF88">
-	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
+	
 	
 	<link rel="author" href="https://plus.google.com/u/0/+AlexandrePoint">
 	
@@ -252,7 +252,7 @@
 
             <p class="shadow-black">
               Alfonse est votre compagnon d'expatriation. Nous sommes là pour vous accompagner dans votre nouvelle vie à l'étranger.
-              <a href="http://localhost:4000/fr/info/">More ›</a>
+              <a href="http://localhost:4000/fr/info/">Plus ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
