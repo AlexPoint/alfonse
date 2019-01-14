@@ -32,10 +32,10 @@
 
 	<!-- Search Engine Optimization -->
 	<meta name="description" content="">
-	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
+	<meta name="google-site-verification" content="MpPVvei2dWLEsLJKRx4kgRya_CN0gb_flPKgVH2BF88">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
-	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
+	<link rel="author" href="https://plus.google.com/u/0/+AlexandrePoint">
 	
 	
 	<link rel="canonical" href="http://localhost:4000/fr/assets/xslt/atom.xslt">
