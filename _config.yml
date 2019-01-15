@@ -79,7 +79,7 @@ exclude:
 # The language setting is used in /includes/header.html for html-settings
 # language: 'en'
 languages: ["en", "fr"]
-exclude_from_localizations: ["assets", "CNAME", "images"]
+exclude_from_localizations: ["assets", "CNAME", "images", "googlef5a234ee5aabb3a7.html"]
 defaultLang: en
 languageNames:
   fr: French
