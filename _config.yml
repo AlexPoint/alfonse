@@ -82,7 +82,7 @@ languages: ["en", "fr"]
 exclude_from_localizations: ["assets", "CNAME", "images", "googlef5a234ee5aabb3a7.html"]
 defaultLang: en
 languageNames:
-  fr: French
+  fr: Français
   en: English
 
 # Used › default.html front-matter and compress.html

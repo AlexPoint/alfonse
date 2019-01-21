@@ -18,6 +18,29 @@
       <ul class="right">
         <!-- Examples of navigation links: -->
         <!-- -> Without dropdown -->
+
+        <li class="divider"></li>
+        <li class="has-dropdown{% if link_url == page.url %} active{% endif %}">
+          <a class="active" href="#">{{ site.languageNames[site.lang] }}</a>
+          <ul class="dropdown">
+          {% for lang in site.languageNames %}
+            {% if lang[0] == site.lang %} {% continue %} {% endif %}
+            {% if page.namespace %}
+              <li>
+                <a href="{% tl {{ page.namespace }} {{ lang[0] }} %}">{{ lang[1] }}</a>
+              </li>
+            {% else %}
+              <li>
+                <a href="{{ site.baseurl_root }}/{{ lang[0] }}/">{{ lang[1] }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+          </ul>
+        </li>
+        <li>
+          
+        </li>
+        
         <!-- <li class="divider"></li>
         {% assign link_url = "/search/" %}
         <li{% if link_url == page.url %} class="active"{% elsif page.homepage == true and link_url == '/' %} class="active"{% endif %}>
