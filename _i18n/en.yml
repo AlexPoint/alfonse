@@ -2,10 +2,12 @@ footer:
   about:
     title: About this site
     description: Alfonse is your expat companion, helping you when you go live in new places.
-  services:
-    title: Services
-    contact: Contact
+  misc:
+    title: Misc
+    contact: Contact us
     sitemap: sitemap.xml
+  languages:
+    title: Languages
 
 global:
   title: Alfonse
