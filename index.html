@@ -1,6 +1,8 @@
 ---
 layout: default
 format: frontpage
+header:
+  image_fullwidth: header_unsplash_12.jpg
 ---
 <div id="header-home">
     <div class="row">
@@ -10,43 +12,42 @@ format: frontpage
 </div><!-- /#header-home -->
 
 
-{% comment %}
-*
-* First check, if widget is empty or not by checking if there is a title
-*
-{% endcomment %}
 <div class="row t60">
-	{% if page.widget1.title %}
-		{% include _frontpage-widget.html widget=page.widget1 %}
-	{% endif %}
+    <div class="medium-4 columns frontpage-widget">
+        <a href="/expat-guide">
+            <img src="{{ site.baseurl_root }}/images/widget-1-302x182.jpg" alt="" />
+        </a>
+        <h2 class="font-size-h3 t10">{% t index.expatguide.title %}</h2>
+        <p>{% t index.expatguide.description %}</p>
+        <p><a class="button tiny radius" href="/expat-guide">{% t global.more %}</a></p>
+    </div>
 
+    <div class="medium-4 columns frontpage-widget">
+        <a href="/blog">
+            <img src="{{ site.baseurl_root }}/images/widget-github-303x182.jpg" alt="" />
+        </a>
+        <h2 class="font-size-h3 t10">{% t index.blog.title %}</h2>
+        <p>{% t index.blog.description %}</p>
+        <p><a class="button tiny radius" href="/expat-guide">{% t global.more %}</a></p>
+    </div>
 
-	{% if page.widget2.title %}
-		{% include _frontpage-widget.html widget=page.widget2 %}
-	{% endif %}
-
-
-	{% if page.widget3.title %}
-		{% include _frontpage-widget.html widget=page.widget3 %}
-	{% endif %}
+    <div class="medium-4 columns frontpage-widget">
+        <a href="/services">
+            <img src="{{ site.baseurl_root }}/images/widget-1-302x182.jpg" alt="" />
+        </a>
+        <h2 class="font-size-h3 t10">{% t index.services.title %}</h2>
+        <p>{% t index.services.description %}</p>
+        <p><a class="button tiny radius" href="/expat-guide">{% t global.more %}</a></p>
+    </div>
 </div><!-- /.row -->
 
 
 
-{% comment %}
-*
-* First check, if there is a call for action-button
-*
-{% endcomment %}
-{% if page.callforaction.url contains 'http' %}
-{% assign url = '' %}
-{% else %}
-{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
-{% endif %}
+<!-- Call for action -->
 {% if page.callforaction %}
     <div class="row t60 b60">
         <div class="small-12 text-center columns">
-            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+            <a class="button large radius alert" href="https://tinyletter.com/feeling-responsive">{% t index.callforaction.text %}</a>
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 {% endif %}
@@ -100,14 +101,3 @@ format: frontpage
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
-
-
-{% comment %}
-*
-* Finally, if there is content, spit it out.
-*
-{% endcomment %}
-
-<div class="row">
-    {{ content }}
-</div><!-- /.row -->

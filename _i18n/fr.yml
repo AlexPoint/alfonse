@@ -39,3 +39,16 @@ navigation:
   blog: Blog
   expatguide: Guide d'expat
   services: Services
+
+index:
+  expatguide: 
+    title: Le guide d'expatriation
+    description: Une synthèse complète de ce à quoi penser lorsque vous préparez votre expatriation, quelque soit l'endroit et le moment !
+  blog:
+    title: Blog
+    description: Article par article, la revue approfondie des moments critiques dans la vie d'un expat.
+  services:
+    title: Services
+    description: Des services pour facilliter la vie des expats. En construction...
+  callforaction:
+    text: Me tenir informer des nouveaux articles et mises à jour ›
