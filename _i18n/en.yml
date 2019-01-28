@@ -2,10 +2,19 @@ footer:
   about:
     title: About this site
     description: Alfonse is your expat companion, helping you when you go live in new places.
-  misc:
-    title: Misc
+  accessibility:
+    title: Accessibiity
     contact: Contact us
     sitemap: sitemap.xml
+    sitemap_alt_title: Sitemap for Google Webmaster Tools
+  updates:
+    title: Updates
+    newsletter: Newsletter
+    newsletter_alt_title: Subscribe to the newsletter
+    rss: RSS
+    rss_alt_title: Subscribe to RSS feed
+    atom: Atom
+    atom_alt_title: Subscribe to Atom feed
   languages:
     title: Languages
 

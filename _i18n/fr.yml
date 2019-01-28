@@ -2,10 +2,19 @@ footer:
   about:
     title: A propos de ce site
     description: Alfonse est votre compagnon d'expatriation. Nous sommes là pour vous accompagner dans votre nouvelle vie à l'étranger.
-  misc:
-    title: Divers
+  accessibility:
+    title: Accessibilité
     contact: Nous contacter
     sitemap: sitemap.xml
+    sitemap_alt_title: Sitemap pour Google Webmaster Tools
+  updates:
+    title: Nouveautés
+    newsletter: Newsletter
+    newsletter_alt_title: S'abonner à la newsletter
+    rss: RSS
+    rss_alt_title: S'abonner au flux RSS
+    atom: Atom
+    atom_alt_title: S'abonne au flux Atom
   languages:
     title: Langues
 
