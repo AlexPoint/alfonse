@@ -24,7 +24,10 @@ global:
   description: Alfonse vous aide dans votre expatriation en vous fournissant tous les conseils et astuces qui vont rendre votre vie plus facile... et vous permettre de profiter pleinement de cette expérience exceptionnelle.
   archive: Archives
   blog_archive: Archives du blog
-  comments_headline: Dialogue &amp; Discussion
+  comments:
+    headline: Dialogue &amp; Discussion
+    js_disabled_msg1: Veuillez activer JavaScript pour voir les 
+    js_disabled_msg2: commentaires Disqus.
   more: Plus ›
   more_articles: Plus d'articles
   new_blog_entries: Nouveaux articles de blog
@@ -61,3 +64,9 @@ index:
     description: Des services pour facilliter la vie des expats. En construction...
   callforaction:
     text: Me tenir informer des nouveaux articles et mises à jour ›
+
+contact_us:
+  title: Me contacter
+  subtitle: Une question ou une remarque ?
+  meta_title: Me contacter par email
+  teaser: Pour me contacter, envoyez-moi un email.

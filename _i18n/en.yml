@@ -24,7 +24,10 @@ global:
   description: Alfonse is helping you in your expatriation by providing all the tips and tricks that will make your life much easier... and will allow you to enjoy this unique experience.
   archive: Archive
   blog_archive: Blog Archive
-  comments_headline: Dialogue &amp; Discussion
+  comments:
+    headline: Dialogue &amp; Discussion
+    js_disabled_msg1: Please enable JavaScript to view the 
+    js_disabled_msg2: comments powered by Disqus.
   more: More&nbsp;›
   more_articles: More articles
   new_blog_entries: New blog articles
@@ -61,3 +64,9 @@ index:
     description: A few services to make your expat life easier. This section is under construction...
   callforaction:
     text: Inform me about new articles and updates ›
+
+contact_us:
+  title: Contact me
+  subtitle: Get in touch with me?
+  meta_title: Contact me by sending an email
+  teaser: You want to get in touch with me? Just send me an email.

@@ -8,7 +8,7 @@ format: post
 			<header>
 				{% if page.image.title %}
 				<figure>
-					<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
+					<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{% t page.title %}" itemprop="image">
 
 					{% if page.image.caption_url and page.image.caption %}
 					<figcaption class="text-right">
@@ -23,15 +23,15 @@ format: post
 				{% endif %}
 
 				<div itemprop="name">
-					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
-					<h1>{{ page.title }}</h1>
+					{% if page.subheadline %}<p class="subheadline">{% t page.subheadline %}</p>{% endif %}
+					<h1>{% t page.title %}</h1>
 				</div>
 			</header>
 
 
 			{% if page.teaser %}
 			<p class="teaser" itemprop="description">
-				{{ page.teaser }}
+				{% t page.teaser %}
 			</p>
 			{% endif %}
 
