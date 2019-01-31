@@ -73,4 +73,5 @@ contact_us:
 
 404:
   title: Oops! Nothing here...
+  subheadline: HTTP 404
   teaser: Maybe the webpage was moved or deleted; or did you maybe mistype the link?

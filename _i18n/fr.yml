@@ -73,4 +73,5 @@ contact_us:
 
 404:
   title: Oops! Il n'y a rien à cette adresse...
+  subheadline: HTTP 404
   teaser: Cette page a peut-être été déplacée ou supprimée ; ou alors le lien contient une erreur ?
