@@ -70,3 +70,7 @@ contact_us:
   subtitle: Get in touch with me?
   meta_title: Contact me by sending an email
   teaser: You want to get in touch with me? Just send me an email.
+
+404:
+  title: Oops! Nothing here...
+  teaser: Maybe the webpage was moved or deleted; or did you maybe mistype the link?

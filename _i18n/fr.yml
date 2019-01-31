@@ -70,3 +70,7 @@ contact_us:
   subtitle: Une question ou une remarque ?
   meta_title: Me contacter par email
   teaser: Pour me contacter, envoyez-moi un email.
+
+404:
+  title: Oops! Il n'y a rien à cette adresse...
+  teaser: Cette page a peut-être été déplacée ou supprimée ; ou alors le lien contient une erreur ?

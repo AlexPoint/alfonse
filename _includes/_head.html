@@ -11,10 +11,10 @@
 
 {% assign url = site.baseurl | prepend: site.url %}
 
-{% capture description %}{% if page.meta_description %}{{ page.meta_description }}{% elsif page.teaser %}{{ page.teaser }}{% elsif page.excerpt %}{{ page.excerpt }}{% else %}{{ global.description }}{% endif %}{% endcapture %}
+{% capture description %}{% if page.meta_description %}{% t page.meta_description %}{% elsif page.teaser %}{% t page.teaser %}{% elsif page.excerpt %}{% t page.excerpt %}{% else %}{% t global.description %}{% endif %}{% endcapture %}
 {% assign description = description | strip_html | escape | strip %}
 
-{% capture title %}{% if page.meta_title %}{{ page.meta_title}}{% elsif page.title %}{{ page.title }}{% else %}{% t global.title %}{% endif %}{% endcapture %}
+{% capture title %}{% if page.meta_title %}{% t page.meta_title %}{% elsif page.title %}{% t page.title %}{% else %}{% t global.title %}{% endif %}{% endcapture %}
 
 {% assign title = title | strip_html | escape | strip_newlines %}
 
