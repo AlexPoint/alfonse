@@ -15,7 +15,7 @@
 
             <p class="shadow-black">
               {% t footer.about.description %}
-              <a href="{{ site.url }}{{ site.baseurl }}/info/">{% t global.more %}</a>
+              <a href="{{ site.url }}{{ site.baseurl }}/info">{% t global.more %}</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -26,7 +26,7 @@
 
             <ul class="no-bullet shadow-black">
               <li>
-                  <a href="/newsletter" title="{% t footer.updates.newsletter_alt_title %}">{% t footer.updates.newsletter %}</a>
+                  <a href="{{ site.url }}{{ site.baseurl }}/newsletter" title="{% t footer.updates.newsletter_alt_title %}">{% t footer.updates.newsletter %}</a>
               </li>
               <li>
                   <a href="{{ site.url }}{{ site.baseurl }}/feed.xml" title="{% t footer.updates.rss_alt_title %}">{% t footer.updates.rss %}</a>
@@ -43,7 +43,7 @@
 
             <ul class="no-bullet shadow-black">
               <li>
-                  <a href="{% tl contact %}">{% t footer.accessibility.contact %}</a>
+                  <a href="{% tl contact_us %}">{% t footer.accessibility.contact %}</a>
               </li>
               <li>
                   <a href="/sitemap.xml" title="{% t footer.accessibility.sitemap_alt_title %}">{% t footer.accessibility.sitemap %}</a>
