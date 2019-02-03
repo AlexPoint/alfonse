@@ -75,3 +75,20 @@ contact_us:
   title: Oops! Il n'y a rien à cette adresse...
   subheadline: HTTP 404
   teaser: Cette page a peut-être été déplacée ou supprimée ; ou alors le lien contient une erreur ?
+
+search:
+  title: Recherche
+
+atom:
+  title: Fux atom (avec styles)
+
+rss:
+  title: Flux RSS (avec styles)
+
+blog:
+  index:
+    title: Le blog d'Alfonse
+    teaser: Article par article, la revue approfondie des moments critiques dans la vie d'un expat.
+  archive:
+    title: Les archives du blog
+    teaser: Découvrez tous les posts dans les archives. Cliquez sur le titre pour voir le résumé.

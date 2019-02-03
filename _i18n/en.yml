@@ -58,7 +58,7 @@ index:
     description: A complete overview of what you should think off to prepare your experience abroad, no what where, how and when!
   blog:
     title: Blog
-    description: A focus on the critical pieces of an expat journey, one article at a time.
+    description: A focus on the critical parts of an expat's journey, one article at a time.
   services:
     title: Services
     description: A few services to make your expat life easier. This section is under construction...
@@ -75,3 +75,20 @@ contact_us:
   title: Oops! Nothing here...
   subheadline: HTTP 404
   teaser: Maybe the webpage was moved or deleted; or did you maybe mistype the link?
+
+search:
+  title: Search
+
+atom:
+  title: Atom Feed (Styled)
+
+rss:
+  title: RSS Feed (Styled)
+
+blog:
+  index:
+    title: Alfonse's blog
+    teaser: A focus on the critical parts of an expat's journey, one article at a time.
+  archive:
+    title: Blog Archive
+    teaser: Check out all blog posts in my blog archive. Click on a headline to read the teaser.
