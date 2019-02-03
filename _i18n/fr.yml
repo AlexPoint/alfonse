@@ -71,6 +71,11 @@ contact_us:
   meta_title: Me contacter par email
   teaser: Pour me contacter, envoyez-moi un email.
 
+about_us:
+  title: A propos d'Alfonse
+  teaser: Simplement quelqu'un qui veut vous vendre la vie d'expat...
+  meta_title: A propos du site web Alfonse
+
 404:
   title: Oops! Il n'y a rien à cette adresse...
   subheadline: HTTP 404

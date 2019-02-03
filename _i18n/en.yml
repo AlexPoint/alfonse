@@ -71,6 +71,11 @@ contact_us:
   meta_title: Contact me by sending an email
   teaser: You want to get in touch with me? Just send me an email.
 
+about_us:
+  title: About Alfonse
+  teaser: Just someone who wants to boast the expat life...
+  meta_title: About the Alfonse website
+
 404:
   title: Oops! Nothing here...
   subheadline: HTTP 404
