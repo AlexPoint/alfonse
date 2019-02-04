@@ -31,7 +31,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="">
+	<meta name="description" content="Alfonse is helping you in your expatriation by providing all the tips and tricks that will make your life much easier... and will allow you to enjoy this unique experience.">
 	<meta name="google-site-verification" content="MpPVvei2dWLEsLJKRx4kgRya_CN0gb_flPKgVH2BF88">
 	
 	
@@ -43,7 +43,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
-	<meta property="og:description" content="">
+	<meta property="og:description" content="Alfonse is helping you in your expatriation by providing all the tips and tricks that will make your life much easier... and will allow you to enjoy this unique experience.">
 	<meta property="og:url" content="http://localhost:4000/en/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -108,6 +108,26 @@
       <ul class="right">
         <!-- Examples of navigation links: -->
         <!-- -> Without dropdown -->
+
+        <li class="divider"></li>
+        <li class="has-dropdown">
+          <a class="active" href="#">English</a>
+          <ul class="dropdown">
+          
+            
+            
+              <li>
+                <a href="/fr/assets/xslt/atom.xslt">Français</a>
+              </li>
+            
+          
+             
+          </ul>
+        </li>
+        <li>
+          
+        </li>
+        
         <!-- <li class="divider"></li>
         
         <li>
@@ -247,103 +267,65 @@
     <footer id="footer-content" class="bg-grau">
       <div id="footer">
         <div class="row">
-          <div class="medium-6 large-5 columns">
+
+          <!-- Section "about this site" -->
+          <div class="small-6 medium-3 large-3 columns">
             <h5 class="shadow-black">About this site</h5>
 
             <p class="shadow-black">
               Alfonse is your expat companion, helping you when you go live in new places.
-              <a href="http://localhost:4000/en/info/">More&nbsp;›</a>
+              <a href="/en/about-us/">More&nbsp;›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
 
-          <div class="small-6 medium-3 large-3 large-offset-1 columns">
-            
-              
-                <h5 class="shadow-black">Services</h5>
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-
-              <ul class="no-bullet shadow-black">
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/en"  title=""></a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/en/contact/"  title="Contact">Contact</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/en/feed.xml"  title="Subscribe to RSS Feed">RSS</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/en/atom.xml"  title="Subscribe to Atom Feed">Atom</a>
-                  </li>
-              
-                
-                  <li >
-                    <a href="http://localhost:4000/en/sitemap.xml"  title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
-                  </li>
-              
-              </ul>
-          </div><!-- /.large-4.columns -->
-
-
+          <!-- Section updates -->
           <div class="small-6 medium-3 large-3 columns">
-            
-              
-                <h5 class="shadow-black">Dankeschön</h5>
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
+            <h5 class="shadow-black">Updates</h5>
 
+            <ul class="no-bullet shadow-black">
+              <li>
+                  <a href="/en/newsletter/" title="Subscribe to the newsletter">Newsletter</a>
+              </li>
+              <li>
+                  <a href="http://localhost:4000/en/feed.xml" title="Subscribe to RSS feed">RSS</a>
+              </li>
+              <li>
+                  <a href="http://localhost:4000/en/atom.xml" title="Subscribe to Atom feed">Atom</a>
+              </li>
+            </ul>
+          </div><!-- /.large-6.columns -->
+
+          <!-- Section "accessibiity" -->
+          <div class="small-6 medium-3 large-3 columns">
+            <h5 class="shadow-black">Accessibiity</h5>
+
+            <ul class="no-bullet shadow-black">
+              <li>
+                  <a href="/en/contact-us/">Contact us</a>
+              </li>
+              <li>
+                  <a href="/sitemap.xml" title="Sitemap for Google Webmaster Tools">sitemap.xml</a>
+              </li>
+            </ul>
+          </div><!-- /.large-6.columns -->
+
+          <!-- Section languages -->
+          <div class="small-6 medium-3 large-3 columns">
+            <h5 class="shadow-black">Languages</h5>
             <ul class="no-bullet shadow-black">
             
               
-                <li >
-                  <a href="http://localhost:4000/en"  title=""></a>
+                <li>
+                  <a href="/fr/assets/xslt/atom.xslt">Français</a>
                 </li>
+              
             
               
-                <li class="network-entypo" >
-                  <a href="http://entypo.com/" target="_blank"  title="Icons by Daniel Bruce">Icons by Daniel Bruce</a>
+                <li>
+                  <a href="/en/assets/xslt/atom.xslt">English</a>
                 </li>
-            
               
-                <li class="services-newsletter" >
-                  <a href="http://foundation.zurb.com/" target="_blank"  title="Built on Foundation">Built on Foundation</a>
-                </li>
-            
-              
-                <li class="rss-link" >
-                  <a href="http://unsplash.com/" target="_blank"  title="Images by Unsplash">Images by Unsplash</a>
-                </li>
-            
-              
-                <li class="sitemap-link" >
-                  <a href="http://srobbin.com/jquery-plugins/backstretch/" target="_blank"  title="Using Backstretch by Scott Robbin">Using Backstretch by Scott Robbin</a>
-                </li>
             
             </ul>
           </div><!-- /.large-3.columns -->
