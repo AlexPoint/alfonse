@@ -76,6 +76,11 @@ about_us:
   teaser: Simplement quelqu'un qui veut vous vendre la vie d'expat...
   meta_title: A propos du site web Alfonse
 
+newsletter:
+  title: S'abonner à la newsletter
+  teaser: Recevez un email quand du nouveau contenu est publié sur Alfonse
+  meta_title: S'abonner à la newsletter d'Alfonse
+
 404:
   title: Oops! Il n'y a rien à cette adresse...
   subheadline: HTTP 404

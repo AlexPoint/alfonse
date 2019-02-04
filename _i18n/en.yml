@@ -76,6 +76,11 @@ about_us:
   teaser: Just someone who wants to boast the expat life...
   meta_title: About the Alfonse website
 
+newsletter:
+  title: Subscribe to the newsletter
+  teaser: Be notified when new content is published on Alfonse
+  meta_title: Subscribe to Alfonse's newsletter
+
 404:
   title: Oops! Nothing here...
   subheadline: HTTP 404
