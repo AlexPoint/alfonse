@@ -51,7 +51,12 @@
 	
 	
 
+	<!-- Twitter -->
+	
 
+	<!-- Twitter -->
+	
+	<meta name="p:domain_verify" content="d1f657af02b836a497b250d4564df2b9"/>
 	
 
 	<link type="text/plain" rel="author" href="http://localhost:4000/en/humans.txt">

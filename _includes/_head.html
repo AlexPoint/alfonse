@@ -65,15 +65,19 @@
 	{% if page.image.title %}<meta property="og:image" content="{{ site.urlimg }}{{ page.image.title }}">{% endif %}
 	{% if site.socialmedia.facebook %}<meta property="article:author" content="https://www.facebook.com/{{ site.socialmedia.facebook }}">{% endif %}
 
-
-	{% if site.socialmedia.twitter %}
 	<!-- Twitter -->
+	{% if site.socialmedia.twitter %}
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="{{ site.socialmedia.twitter }}">
 	<meta name="twitter:creator" content="{{ site.socialmedia.twitter }}">
 	<meta name="twitter:title" content="{{ title }}">
 	<meta name="twitter:description" content="{{ description }}">
 	{% if page.image.title %}<meta name="twitter:image" content="{{ site.urlimg }}{{ page.image.title }}">{% endif %}
+	{% endif %}
+
+	<!-- Twitter -->
+	{% if site.socialmedia.pinterest %}
+	<meta name="p:domain_verify" content="{{ site.socialmedia.pinterest }}"/>
 	{% endif %}
 
 	<link type="text/plain" rel="author" href="{{ url}}/humans.txt">
