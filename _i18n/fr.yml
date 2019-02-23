@@ -86,6 +86,12 @@ newsletter:
   subheadline: HTTP 404
   teaser: Cette page a peut-être été déplacée ou supprimée ; ou alors le lien contient une erreur ?
 
+expat_guide:
+  title: Guide d'expatriation
+  subtitle: Une synthèse complète de ce à quoi penser lorsque vous préparez votre expatriation, quelque soit l'endroit et le moment !
+  teaser: Une liste complète des préparations avant d'aller vivre à l'étranger
+  meta_title: Faites le point sur les choses à faire avant votre expatriation
+
 search:
   title: Recherche
 

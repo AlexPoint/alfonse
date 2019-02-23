@@ -14,12 +14,12 @@ header:
 
 <div class="row t60">
     <div class="medium-4 columns frontpage-widget">
-        <a href="/expat-guide">
+        <a href="{% tl expat_guide %}">
             <img src="{{ site.baseurl_root }}/images/widget-1-302x182.jpg" alt="" />
         </a>
         <h2 class="font-size-h3 t10">{% t index.expatguide.title %}</h2>
         <p>{% t index.expatguide.description %}</p>
-        <p><a class="button tiny radius" href="/expat-guide">{% t global.more %}</a></p>
+        <p><a class="button tiny radius" href="{% tl expat_guide %}">{% t global.more %}</a></p>
     </div>
 
     <div class="medium-4 columns frontpage-widget">
@@ -28,7 +28,7 @@ header:
         </a>
         <h2 class="font-size-h3 t10">{% t index.blog.title %}</h2>
         <p>{% t index.blog.description %}</p>
-        <p><a class="button tiny radius" href="/expat-guide">{% t global.more %}</a></p>
+        <p><a class="button tiny radius" href="/blog">{% t global.more %}</a></p>
     </div>
 
     <div class="medium-4 columns frontpage-widget">
@@ -37,7 +37,7 @@ header:
         </a>
         <h2 class="font-size-h3 t10">{% t index.services.title %}</h2>
         <p>{% t index.services.description %}</p>
-        <p><a class="button tiny radius" href="/expat-guide">{% t global.more %}</a></p>
+        <p><a class="button tiny radius" href="/services">{% t global.more %}</a></p>
     </div>
 </div><!-- /.row -->
 
