@@ -1,26 +1,26 @@
-There are many reasons to go abroad, and all of them are good ones. The most frequent ones are your career, learning a language, love or money. Sometimes, multiple reasons at the same time. One advice, write it down and read it time and again to stay motivated.
+There are many reasons to go abroad, and all of them are good ones. The most frequent ones are your career, learning a language, love or money. Sometimes, multiple reasons at the same time. One advice, write it down on a piece of paper and read it time and again to stay motivated.
 
-But moving abroad is not something we do a lot, and missing a step can have annoying consequences. So you want to make sure you did not miss anything and this article is the right place to start.
+Because moving abroad is not a piece of cake. It is not something we do a lot, and missing a step can have annoying consequences. So you want to make sure you did not miss anything and this guide is the right place to start.
 
 
 ### Status of your project
-Where are you in your expatiation? If it's a vague idea, you have time but your first step is to make your project more concrete to make sure it doesn't vanish into thin air. Set a deadline to pick when and where you want to go.
+Where are you in your expatiation? If it's only a vague idea, you have time and your first step is to make your project more concrete to make sure it doesn't vanish into thin air. Set a deadline to pick when and where you want to go.
 
-If the timing and the location are already set, then it's time to look at logistics. Some steps can require a minimum amount of time so be sure to plan ahead.
+If the timing and the location are already set, then it's time to look at logistics. Some steps can require a minimum amount of time so be sure to start early and plan ahead.
 
-You are already abroad and you need to fix things? I don't blame you as it has happened to me multiple times. Now it's time to put everything in order.
+You are already abroad and you need to jump on the bandwagon? I don't blame you as it has happened to me multiple times. Now it's time to put everything in order.
 
 ### Administrative tasks
 Visa! (and a passeport if don't have one already)
 
-As soon as you know where you go, get information about if you need a visa and if you do, which one and how long does it take to get it. Sometimes, you won't have a definitive answer about the time needed to get your visa; use the worst-case scenario and plan it from here.
+As soon as you know where you go, get information about whether you need a visa and if you do, which one and how long does it take to get it. Sometimes, you won't have a definitive answer about the time needed to get your visa (between 2 weeks and 3 months); use the worst-case scenario and plan it from here.
 
-Do you plan on dirving abroad? If you do, make sure your driving license is valid in the country in which you will settle or do what's required to be able to drive there.
+Do you plan on driving abroad? If you do, make sure your driving license is valid in the country in which you will settle or do what's required to be able to drive there.
 
 ### Money
 At the risk of souding too materialistic, money can be a big deal during an expatriation.
 
-Of course, it will depend on where you are from, your professional situation, how much savings you have (and are ready to spend on your experience), where you go and your standards of living.
+Of course, it will depend on where you are from, your professional situation, how much savings you have (and are ready to spend on your experience), and where you go and your standards of living.
 
 I strongly advice doing an estimation of how much you will spend when you live abroad. 
 
@@ -29,14 +29,14 @@ I strongly advice doing an estimation of how much you will spend when you live a
 <cite>Benjamin Franklin</cite>
 
 Old Ben was right and even if you move abroad, taxes will follow. Depending on your home and target country, you may have a good surprise and pay only a fraction of the taxes you would have paid if you stayed or you may pay double. 
-In both cases, have a look at tax rules in both countries and maybe keep a postal address in your home country to avoid bad surprises.
+In both cases, have a look at tax rules in both countries and keep a postal address in your home country to avoid bad surprises.
 
 ### Accomodation
 
 #### Finding a new home
-Looking for a place to live can be a challenge in many cities, especially if you live far, do not know the city and are a foreigner.
+Looking for a place to live can be a challenge in many (big) cities, especially if you live far, do not know the city and are a foreigner.
 
-If you travel for business purposes, use whatever help your company can provide to find a flat. If you travel for personal reasons, use your network to get local help for finding a flat or spend some time on the internet to understand how renting works there (hint: it can be very different from how it works in your country).
+If you travel for business purposes, use whatever help your company can provide to find a flat (financial help, a few nights in a hotel, support from a local real-estate agent...). If you travel for personal reasons, use your network to get local help for finding a flat or spend some time on the internet to understand how renting works there (hint: it can be radically different from how it works in your country).
 
 
 #### Moving
