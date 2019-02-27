@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 18 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 19 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>http://localhost:4000/fr/404.html</loc>
 	
-		<lastmod>2019-02-21T16:39:58+01:00</lastmod>
+		<lastmod>2019-02-27T22:02:59+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>http://localhost:4000/fr/a-propos-de-nous/</loc>
 	
-		<lastmod>2019-02-21T16:39:58+01:00</lastmod>
+		<lastmod>2019-02-27T22:02:59+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -37,7 +37,7 @@
 	<url>
 	<loc>http://localhost:4000/fr/blog/archive/</loc>
 	
-		<lastmod>2019-02-21T16:39:58+01:00</lastmod>
+		<lastmod>2019-02-27T22:02:59+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,7 +54,7 @@
 	<url>
 	<loc>http://localhost:4000/fr/atom.xml</loc>
 	
-		<lastmod>2019-02-21T16:39:58+01:00</lastmod>
+		<lastmod>2019-02-27T22:02:59+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -71,7 +71,22 @@
 	<url>
 	<loc>http://localhost:4000/fr/nous-contacter/</loc>
 	
-		<lastmod>2019-02-21T16:39:58+01:00</lastmod>
+		<lastmod>2019-02-27T22:02:59+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/fr/guide-expatrition/</loc>
+	
+		<lastmod>2019-02-27T22:02:59+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +101,7 @@
 	<url>
 	<loc>http://localhost:4000/fr/feed.xml</loc>
 	
-		<lastmod>2019-02-21T16:39:58+01:00</lastmod>
+		<lastmod>2019-02-27T22:02:59+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -101,7 +116,7 @@
 	<url>
 	<loc>http://localhost:4000/fr/humans.txt</loc>
 	
-		<lastmod>2019-02-21T16:39:58+01:00</lastmod>
+		<lastmod>2019-02-27T22:02:59+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +131,7 @@
 	<url>
 	<loc>http://localhost:4000/fr/blog/</loc>
 	
-		<lastmod>2019-02-21T16:39:58+01:00</lastmod>
+		<lastmod>2019-02-27T22:02:59+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +146,7 @@
 	<url>
 	<loc>http://localhost:4000/fr/</loc>
 	
-		<lastmod>2019-02-21T16:39:58+01:00</lastmod>
+		<lastmod>2019-02-27T22:02:59+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +161,7 @@
 	<url>
 	<loc>http://localhost:4000/fr/newsletter/</loc>
 	
-		<lastmod>2019-02-21T16:39:58+01:00</lastmod>
+		<lastmod>2019-02-27T22:02:59+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +176,7 @@
 	<url>
 	<loc>http://localhost:4000/fr/robots.txt</loc>
 	
-		<lastmod>2019-02-21T16:39:58+01:00</lastmod>
+		<lastmod>2019-02-27T22:02:59+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -180,7 +195,7 @@
 	<url>
 	<loc>http://localhost:4000/fr/search/</loc>
 	
-		<lastmod>2019-02-21T16:39:58+01:00</lastmod>
+		<lastmod>2019-02-27T22:02:59+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -195,7 +210,7 @@
 	<url>
 	<loc>http://localhost:4000/fr/sitemap.xml</loc>
 	
-		<lastmod>2019-02-21T16:39:58+01:00</lastmod>
+		<lastmod>2019-02-27T22:02:59+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
