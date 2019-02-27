@@ -40,7 +40,7 @@ If you travel for business purposes, use whatever help your company can provide 
 
 
 #### Moving
-The first advice here is ove only what you absolutely need. Most of the time, that doesn't include clothes and other basic items that you can buy abroad - and even cheaper if you're moving to a country where life is cheaper than home.
+The first advice here is to move only what you absolutely need. Most of the time, that doesn't include clothes and other basic items that you can buy everywhere - and even cheaper if you're moving to a country where life is cheaper than home.
 If you have a pet, that will mean an extra challenge but it's worth it. Find out about whether and how you can get your companion to this new country.
 
 If you have to move more than two bags per person, you probably need to hire a company to move your stuff. You can find good moving services on the internet but it requires a bit of planning to collect your belongings in due time.
@@ -50,7 +50,7 @@ If you have to move more than two bags per person, you probably need to hire a c
 If you travel alone, good news for you on this point: life will be much easier.
 If you travel with your significant other, be sure to be aligned on how long the expatriation will last and what it brings to both persons in the couple. 
 
-One important thing, if the expatriation is for professional reasons, discuss whether the other one wants/should find another job there. If that's the case, which visa do you need and what are the criteria to get it? Is it easy to get a job for you there? Dust your résumé off and think about being accompanied in your job search.
+One important thing, if the expatriation is for professional reasons, discuss whether the other one wants/should find another job there. If that's the case, which visa do you need and what are the criteria to get it? Is it easy to get a job for you there? Dust your résumé off, translate it if needed and think about being accompanied in your job search.
 
 If you don't plan on finding a job there, think of what you will do. Write a blog, build your own company, be involved in associations, ...? Be clear about it and find something because "visiting the city" will only get you excited for a couple of weeks.
 
@@ -60,9 +60,9 @@ If children are coming with you, that will be a great experience for them as wel
 ### Health
 The first thing that comes to mind is vaccines, and rightfully so.
 
-But it's not the only thing to take care of before the big day. Look at your future country's healthcare system: some are very good and cover foreigners under specific conditions. Other healthcare systems are less developed and generous; in this case, a private insurance is a must-have. You cannot really negotiate going to the hospital when you have a broken leg or worse.
+But it's not the only thing to take care of before the big day. Look at your future country's healthcare system: some are very good and cover foreigners under specific conditions. Other healthcare systems are less developed and/or generous; in this case, a private insurance is a must-have. You cannot really negotiate going to the hospital when you have a broken leg or worse.
 
-Another thing related to your social protection is pension. How long will you be abroad and what are the impact on your future pension? Chances are retirement is far from you but it will be a big deal in a few years. So be nice to the "future you" and at least be clear on what your experience will mean for later.
+Another thing related to your social protection is pension. How long will you be abroad and what are the impact on your future pension? Chances are retirement is far from you but it will be a big deal in a few years. So be nice to the "future you" and at least be clear on the impacts of this experience for later.
 
 
 ### Holidays
@@ -73,9 +73,9 @@ If not, make it clear and plan your future vacations to have good balance. Ask y
 
 
 ### Phew, that's a lot...
-Yes, but ask most expatriates and they will tell you it's worth it.
+Yes, but ask any expatriate and she will tell you it's worth it.
 
-Remember, you wrote the reason(s) why you want to go abroad - or you didn't, but you have to do it now ;). 
+Remember, you wrote the reason(s) why you want to go abroad - or you didn't, but you do have to do it now ;). 
 
 Also, there are things that you can control and others that you cannot. In the first case, there is nothing to worry about and in the second case worrying is useless...
 Transition periods are always frustrating, especially when it's filled with administrative and other unsexy topics. But the more you handle those things before, the more you will enjoy your life when you get there.
