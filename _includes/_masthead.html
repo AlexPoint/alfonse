@@ -35,11 +35,11 @@
 
 {% if page.header.caption_url && page.header.caption %}
 <div class="masthead-caption">
-	<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
+	<a href="{% t page.header.caption_url %}">{% t page.header.caption %}</a>
 </div>
 {% elsif page.header.caption %}
 <div class="masthead-caption">
-	{{ page.header.caption }}
+	{% t page.header.caption %}
 </div>
 {% endif %}
 
@@ -66,11 +66,11 @@
 
 {% if page.header.caption_url && page.header.caption %}
 <div class="masthead-caption">
-	<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
+	<a href="{% t page.header.caption_url %}">{% t page.header.caption %}</a>
 </div>
 {% elsif page.header.caption %}
 <div class="masthead-caption">
-	{{ page.header.caption }}
+	{% t page.header.caption %}
 </div>
 {% endif %}
 
@@ -94,11 +94,11 @@
 
 {% if page.header.caption_url && page.header.caption %}
 <div class="masthead-caption">
-	<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
+	<a href="{% t page.header.caption_url %}">{% t page.header.caption %}</a>
 </div>
 {% elsif page.header.caption %}
 <div class="masthead-caption">
-	{{ page.header.caption }}
+	{% t page.header.caption %}
 </div>
 {% endif %}
 
@@ -122,11 +122,11 @@
 
 {% if page.header.caption_url && page.header.caption %}
 <div class="masthead-caption">
-	<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
+	<a href="{% t page.header.caption_url %}">{% t page.header.caption %}</a>
 </div>
 {% elsif page.header.caption %}
 <div class="masthead-caption">
-	{{ page.header.caption }}
+	{% t page.header.caption %}
 </div>
 {% endif %}
 

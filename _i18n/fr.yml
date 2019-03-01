@@ -53,6 +53,8 @@ navigation:
   services: Services
 
 index:
+  header:
+    caption: Sur une population de 5.6m, Singapour accueil 1.3m de travailleurs étrangers. Cela en fait une des premières destinations mondiales pour les expatriés.
   expatguide: 
     title: Le guide d'expatriation
     description: Une synthèse complète de ce à quoi penser lorsque vous préparez votre expatriation, quelque soit l'endroit et le moment !
@@ -90,7 +92,7 @@ expat_guide:
   title: Guide d'expatriation
   subtitle: Une synthèse complète de ce à quoi penser lorsque vous préparez votre expatriation, quelque soit l'endroit et le moment !
   teaser: Une liste complète des préparations avant d'aller vivre à l'étranger
-  meta_title: Faites le point sur les choses à faire avant votre expatriation
+  meta_title: Le guide pour une expatriation sans souci
 
 search:
   title: Recherche

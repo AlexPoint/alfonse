@@ -53,6 +53,8 @@ navigation:
   services: Services
 
 index:
+  header:
+    caption: Out of 5.6m people, Singapore has 1.3m foreign workers which makes it one of the top destination for expats.
   expatguide: 
     title: Expatriation guide
     description: A complete overview of what you should think off to prepare your experience abroad, no what where, how and when!
@@ -90,7 +92,7 @@ expat_guide:
   title: Expatriation guide
   subtitle: A complete overview of what you should think off to prepare your experience abroad, no what where, how and when! 
   teaser: A full list of the things you should think off before going to live in another country
-  meta_title: Review all the things to prepare your expatriation
+  meta_title: The guide for a smooth expatriation
 
 search:
   title: Search
