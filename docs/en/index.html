@@ -96,9 +96,11 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000/en" class="icon-tree"> Alfonse</a></h1>
-    </li>
-       <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+        <a id="logo" href="http://localhost:4000/en/" title="Alfonse – Your expat companion!">
+          <img src="/assets/img/logo.png" alt="Alfonse – Your expat companion!">
+        </a>
+      </li>
+      <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
     </ul>
     <section class="top-bar-section">
@@ -157,9 +159,10 @@
           <a href="/en/blog/">Blog</a>
         </li>
         <li class="divider"></li>
+        <!-- Translating the link is important (for localized versions of the site) -->
         
-        <li>
-          <a href="/en/expat-guide/">Expat guide</a>
+        <li class="active">
+          <a href="/en/expatriation-guide/">Expat guide</a>
         </li>
         <li class="divider"></li>
         
@@ -194,15 +197,20 @@
 <div id="masthead">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/en/" title="Alfonse – Your expat companion!">
+			<!-- Logo is now displayed in the navigation bar, not on the masthead image -->
+			<!-- <a id="logo" href="http://localhost:4000/en/" title="Alfonse – Your expat companion!">
 				<img src="/assets/img/logo.png" alt="Alfonse – Your expat companion!">
-			</a>
+			</a> -->
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
 
 
 
+
+<div class="masthead-caption">
+	Out of 5.6m people, Singapore has 1.3m foreign workers which makes it one of the top destination for expats.
+</div>
 
 
 
@@ -362,8 +370,8 @@
 
 
 <script>
-    $("#masthead").backstretch("https://www.alfonse.eu/images/header_unsplash_12.jpg", {fade: 700});
-    $("#masthead-with-text").backstretch("https://www.alfonse.eu/images/header_unsplash_12.jpg", {fade: 700});
+    $("#masthead").backstretch("https://www.alfonse.eu/images/panoramas/singapore1.jpg", {fade: 700});
+    $("#masthead-with-text").backstretch("https://www.alfonse.eu/images/panoramas/singapore1.jpg", {fade: 700});
 </script>
 
 
