@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/fr/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/fr/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/fr/</id>
 	<title>Alfonse</title>
-	<updated>2019-02-27T22:02:59+01:00</updated>
+	<updated>2019-03-01T17:45:10+01:00</updated>
 
 	<subtitle>Alfonse vous aide dans votre expatriation en vous fournissant tous les conseils et astuces qui vont rendre votre vie plus facile... et vous permettre de profiter pleinement de cette expérience exceptionnelle.</subtitle>
 
