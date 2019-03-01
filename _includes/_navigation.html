@@ -7,9 +7,11 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="{{ site.url }}{{ site.baseurl }}" class="icon-tree"> {% t global.title %}</a></h1>
-    </li>
-       <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+        <a id="logo" href="{{ '/' | absolute_url }}" title="{% t global.title %} – {% t global.tagline %}">
+          <img src="{{ baseurl_root }}/assets/img/{{ site.logo }}" alt="{% t global.title %} – {% t global.tagline %}">
+        </a>
+      </li>
+      <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
     </ul>
     <section class="top-bar-section">
@@ -71,9 +73,10 @@
           <a href="{{ domain }}{{ site.baseurl }}{{ link_url }}">{% t navigation.blog %}</a>
         </li>
         <li class="divider"></li>
-        {% assign link_url = "/expat-guide/" %}
-        <li{% if link_url == page.url %} class="active"{% elsif page.homepage == true and link_url == '/' %} class="active"{% endif %}>
-          <a href="{{ domain }}{{ site.baseurl }}{{ link_url }}">{% t navigation.expatguide %}</a>
+        <!-- Translating the link is important (for localized versions of the site) -->
+        {% capture link_url %}{% tl expat_guide %}{% endcapture %}
+        <li{% if link_url contains page.url %} class="active"{% endif %}>
+          <a href="{{ link_url }}">{% t navigation.expatguide %}</a>
         </li>
         <li class="divider"></li>
         {% assign link_url = "/services/" %}
